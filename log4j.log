@@ -1,0 +1,32 @@
+2018-04-19 18:05:04 INFO  com.cg.fms.dao.CourseDaoImpl ::21 - Inserting course details into database
+ 2018-04-20 16:09:25 INFO  com.cg.fms.dao.FacultySkillSetDaoImpl ::22 - Inserting Feedback details into database
+ 2018-04-21 09:41:24 INFO  com.cg.fms.dao.FacultySkillSetDaoImpl ::22 - Inserting Feedback details into database
+ 2018-04-21 09:41:58 INFO  com.cg.fms.dao.CourseDaoImpl ::21 - Inserting course details into database
+ 2018-04-21 09:52:50 INFO  com.cg.fms.dao.TrainingProgramDaoImpl ::29 - Inserting Training Program details into database
+ 2018-04-21 09:59:36 INFO  com.cg.fms.dao.TrainingProgramDaoImpl ::29 - Inserting Training Program details into database
+ 2018-04-21 10:00:24 INFO  com.cg.fms.dao.TrainingProgramDaoImpl ::29 - Inserting Training Program details into database
+ 2018-04-21 14:24:31 INFO  com.cg.fms.dao.FacultySkillSetDaoImpl ::22 - Inserting Feedback details into database
+ 2018-04-21 14:36:02 ERROR com.cg.fms.dao.TrainingProgramDaoImpl ::228 - Error in fetching Training Program detailsORA-01427: single-row subquery returns more than one row
+
+ 2018-04-21 14:44:50 ERROR com.cg.fms.dao.TrainingProgramDaoImpl ::228 - Error in fetching Training Program detailsORA-00001: unique constraint (SYSTEM.PK_ENROLLMENT) violated
+
+ 2018-04-21 14:59:13 INFO  com.cg.fms.dao.FacultySkillSetDaoImpl ::22 - Inserting Feedback details into database
+ 2018-04-21 16:14:35 INFO  com.cg.fms.dao.FacultySkillSetDaoImpl ::22 - Inserting Feedback details into database
+ 2018-04-21 16:15:02 INFO  com.cg.fms.dao.CourseDaoImpl ::21 - Inserting course details into database
+ 2018-04-21 16:26:51 ERROR com.cg.fms.dao.TrainingProgramDaoImpl ::228 - Error in fetching Training Program detailsORA-02291: integrity constraint (SYSTEM.SYS_C007677) violated - parent key not found
+
+ 2018-04-21 16:31:11 INFO  com.cg.fms.dao.TrainingProgramDaoImpl ::29 - Inserting Training Program details into database
+ 2018-04-24 17:09:57 INFO  com.cg.fms.dao.FacultySkillSetDaoImpl ::22 - Inserting Feedback details into database
+ 2018-04-24 17:11:20 INFO  com.cg.fms.dao.CourseDaoImpl ::21 - Inserting course details into database
+ 2018-04-24 17:29:58 ERROR com.cg.fms.dao.TrainingProgramDaoImpl ::228 - Error in fetching Training Program detailsORA-01400: cannot insert NULL into ("SYSTEM"."TRAININGPARTICIPANT_ENROLLMENT"."TRAININGCODE")
+
+ 2018-04-24 17:33:03 INFO  com.cg.fms.dao.TrainingProgramDaoImpl ::29 - Inserting Training Program details into database
+ 2018-04-24 17:34:29 INFO  com.cg.fms.dao.TrainingProgramDaoImpl ::29 - Inserting Training Program details into database
+ 2018-04-24 17:34:47 INFO  com.cg.fms.dao.TrainingProgramDaoImpl ::29 - Inserting Training Program details into database
+ 2018-04-25 08:37:37 INFO  com.cg.fms.dao.FacultySkillSetDaoImpl ::22 - Inserting Feedback details into database
+ 2018-08-18 16:10:25 INFO  com.cg.fms.dao.FacultySkillSetDaoImpl ::22 - Inserting Feedback details into database
+ 2018-08-25 12:10:15 INFO  com.cg.fms.dao.FacultySkillSetDaoImpl ::22 - Inserting Feedback details into database
+ 2018-08-25 12:11:24 INFO  com.cg.fms.dao.FeedbackDaoImpl ::116 - Fetching all feedback details
+ 2018-08-25 12:11:24 ERROR com.cg.fms.dao.FeedbackDaoImpl ::137 - Error in fetching feedback dataORA-00904: "FEEDBACKDATE": invalid identifier
+
+ 
